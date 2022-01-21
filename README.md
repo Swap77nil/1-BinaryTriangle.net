@@ -16,7 +16,6 @@ namespace ConsoleApp3<br>
                 for(int space=number-i;space>0;space--)<br>
                 {<br>
                     Console.Write(" ");<br>
-
                 }<br>
                 for (int j = 0; j < i; j++)<br>
                 {<br>
