@@ -27,3 +27,6 @@ namespace ConsoleApp3<br>
         }<br>
     }<br>
 }<br>
+
+OUTPUT:-
+![Screenshot 2022-02-03 115533](https://user-images.githubusercontent.com/98145032/152292222-374cc61e-d48d-41f5-9836-86fd34eca871.png)
